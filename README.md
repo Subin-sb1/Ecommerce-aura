@@ -15,11 +15,9 @@
 
 ## Technologies Used
 - Node.js
-- Node.js
 - Express.js
 - MongoDB
-- Handle Bars
-- HTML CSS 
+- HBS CSS 
 - Bootstrap 5
 - Git for Version control
 
@@ -64,8 +62,8 @@ To get started  you can simply clone this `Aura-Ecommerce` repository and instal
 Clone the `ecommerce-demo` repository using git:
 
 ```bash
-git clone https://github.com/spade001/Aura
-cd Aura
+git clone https://github.com/Subin-sb1/Ecommerce-aura
+cd Ecommerce-aura
 ```
 
 Install dependencies with this command:
