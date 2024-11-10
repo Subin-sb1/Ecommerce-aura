@@ -2,6 +2,9 @@
 > Aura is an e-commerce website that allows customers to browse and purchase products online. The website features a user-friendly interface, a secure payment system, and advanced search and filtering options. Customers can create accounts, track their orders status.
 > Live demo [_here_](https://Aura.gq/).
 
+## Image
+![text](./others/f.png)
+
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [Features](#features)
